@@ -1,0 +1,22 @@
+[2026-11-10 10:06:09] ERREUR : URL du dépôt manquante.
+[2026-11-10 10:07:36] ERREUR : URL du dépôt manquante.
+[2026-11-10 10:08:10] ========== Début du pipeline CI ==========
+[2026-11-10 10:08:10] Clonage du dépôt Git...
+[2026-11-10 10:08:12] Début des tests...
+[2026-11-10 10:08:14] Tests réussis.
+[2026-11-10 10:08:14] Pipeline CI terminé avec succès.
+[2026-11-10 10:08:14] ========== Fin du pipeline CI ==========
+[2026-11-10 10:09:36] ERREUR : URL du dépôt manquante.
+[2026-11-10 10:09:39] ========== Début du pipeline CI ==========
+[2026-11-10 10:09:39] Mise à jour du dépôt Git...
+[2026-11-10 10:09:40] Début des tests...
+[2026-11-10 10:09:42] Tests réussis.
+[2026-11-10 10:09:42] Pipeline CI terminé avec succès.
+[2026-11-10 10:09:42] ========== Fin du pipeline CI ==========
+[2026-11-10 10:23:18] ERREUR : URL du dépôt manquante.
+[2026-11-10 10:23:22] Début du pipeline CI
+[2026-11-10 10:23:22] Mise à jour du dépôt Git...
+[2026-11-10 10:23:24] Début des tests...
+[2026-11-10 10:23:26] Tests réussis.
+[2026-11-10 10:23:26] Pipeline CI terminé avec succès.
+[2026-11-10 10:23:26] Fin du pipeline CI
